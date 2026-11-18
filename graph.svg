@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="450" viewBox="0 0 900 450">
+<defs><marker id="arrow" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0 0L10 4L0 8" fill="#334155"/></marker></defs>
+<rect width="900" height="450" fill="#f8fafc"/>
+<g font-family="Arial, sans-serif" text-anchor="middle">
+<text x="450" y="38" font-size="24" fill="#0f172a">Граф для алгоритма Флойда — Уоршелла</text>
+<g fill="none" stroke="#334155" stroke-width="2.5" marker-end="url(#arrow)">
+<path d="M121 218L267 130"/><path d="M124 245L265 302"/>
+<path d="M290 144L290 286" stroke="#dc2626"/>
+<path d="M317 127L553 208"/><path d="M317 306L553 230"/>
+<path d="M604 217L754 217"/><path d="M319 324Q550 419 760 240"/>
+</g>
+<g font-size="18" fill="#334155" paint-order="stroke" stroke="#f8fafc" stroke-width="7" stroke-linejoin="round">
+<text x="179" y="164">№1: 4</text><text x="175" y="291">№2: 5</text>
+<text x="337" y="220" fill="#dc2626">№3: −2</text>
+<text x="444" y="148">№4: 6</text><text x="443" y="291">№5: 3</text>
+<text x="681" y="201">№6: 2</text><text x="570" y="367">№7: 7</text>
+</g>
+<g fill="#dbeafe" stroke="#2563eb" stroke-width="2.5">
+<circle cx="100" cy="230" r="27"/><circle cx="290" cy="115" r="27"/>
+<circle cx="290" cy="315" r="27"/><circle cx="580" cy="217" r="27"/><circle cx="783" cy="217" r="27"/>
+</g>
+<g font-size="24" fill="#0f172a"><text x="100" y="238">A</text><text x="290" y="123">B</text><text x="290" y="323">C</text><text x="580" y="225">D</text><text x="783" y="225">E</text></g>
+<text x="450" y="420" font-size="17" fill="#475569">№ — номер ребра в меню. Число после двоеточия — вес. Движение по стрелкам.</text>
+</g></svg>
+
